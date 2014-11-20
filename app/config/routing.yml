@@ -1,0 +1,4 @@
+_mini_shop:
+    resource: "@IsMiniShopBundle/Resources/config/routing.yml"
+    prefix:   /
+

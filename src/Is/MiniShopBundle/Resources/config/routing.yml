@@ -1,0 +1,4 @@
+mini_shop_index:
+    resource: "@IsMiniShopBundle/Controller/"
+    type: annotation
+
