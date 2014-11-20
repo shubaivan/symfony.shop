@@ -1,3 +1,7 @@
+app_joboard:
+    resource: "@AppJoboardBundle/Resources/config/routing.yml"
+    prefix:   /
+
 _mini_shop:
     resource: "@IsMiniShopBundle/Resources/config/routing.yml"
     prefix:   /
